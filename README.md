@@ -1,0 +1,1 @@
+I had some knowledge of Python, but i decided to start this journey with Dr. Angela Yu, and in this lesson, and project, I learnt about the input & print function, variables, string manipulation, and debugging.
